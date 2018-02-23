@@ -2,7 +2,5 @@
 
 Inspired by [Advanced CSS Course](https://github.com/jonasschmedtmann/advanced-css-course/) by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
-Simple steps to get up and running:
- - Clone repo locally
- - Run `yarn` in your CLI
- - Enjoy!
+One liner to get up and running. Put that in your inside NEW EMPTY FOLDER:
+`git clone git@github.com:peacefulseeker/simple-scss-starter.git . && yarn && yarn start`
