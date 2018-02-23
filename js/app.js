@@ -1,5 +1,5 @@
 (function($) {
-  $(document).ready(function() {
-    console.log("hehehhe");
+  $(function() {
+    console.log("Ready!");
   });
 })(jQuery);

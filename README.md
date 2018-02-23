@@ -1,6 +1,6 @@
-##Simple SASS Starter Project
+# Simple SASS Starter Project
 
-Inspired by
+Inspired by [Advanced CSS Course](https://github.com/jonasschmedtmann/advanced-css-course/) by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
 Simple steps to get up and running:
  - Clone repo locally
